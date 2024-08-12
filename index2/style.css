@@ -1,0 +1,77 @@
+*{
+    /* background-color: beige; */
+    /* overflow: auto; */
+    background-image:url(pexels-ann-h-45017-1762851.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+} 
+.div{
+    border:3px solid;
+    background-color: rgb(5, 38, 38);
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.div:hover{
+    color: rgb(101, 89, 8);
+    background-color:rgb(88, 131, 8); 
+    box-shadow: inset;
+}
+.h1
+{
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+.h1:hover{
+    color: rgb(158, 158, 184);
+    background-color: cadetblue;
+}
+.p{
+border: 2px solid black;
+    margin-left: 5px;
+}
+.p{
+    color: black;
+    background-color: blue;
+}
+.money{
+width: 100px;
+height: 100px;
+border: 2px solid black;
+border-radius: 50%;
+text-align: center;
+margin-left: 90px;
+margin-top: 30px;
+
+}
+.title{
+    text-align: center;
+    font-size: 20px;
+}
+.btn{
+    color: rgb(188, 255, 226);
+    border: 2px solid;
+    text-align: center;
+    width: 50px;
+    height: 30px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.btn:hover{
+    color: rgb(17, 125, 220);
+background-color:rgb(218, 225, 7);
+}
+.div A:hover{
+    background-color: #e8c91b;
+}
+.div B:hover{
+    background-color: #e8c91b;
+}
+.div C:hover{
+    background-color:   #e8c91b;
+}
